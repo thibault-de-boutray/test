@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("non");
+    printf("oui");
     return 0;
 }
